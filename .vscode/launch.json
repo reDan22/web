@@ -4,11 +4,12 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "C:\\Users\\MSI GL66\\Documents\\reDan222.github.io-main\\KR_2\\index.html",
+            "url": "C:/Users/MSI GL66/Documents/GitHub/web/KR_2/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]

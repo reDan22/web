@@ -28,3 +28,6 @@ body{
     text-align: center;
     list-style-type:none;
 }
+.card-body{
+    background-image: url("https://images.wallpaperscraft.ru/image/single/galaktika_kosmos_krasnyj_128770_1920x1080.jpg");
+}
