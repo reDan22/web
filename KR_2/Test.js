@@ -7,6 +7,7 @@ async function getResponce() {
     content = content.splice(0, 9)
     console.log(content)
     let key
+    let key2
     for (key in content) {
         console.log(content[key].id, content[key].title)
         console.log(content[key])
