@@ -1,5 +1,5 @@
 async function getResponce() {
-    let responce = await fetch("C:/Users/MSI GL66/Documents/reDan222.github.io-main/KR_2/data/shop.json")
+    let responce = await fetch("data/shop.json")
 
     let content = await responce.text()
     console.log(content)
