@@ -31,3 +31,7 @@ body{
 .card-body{
     background-image: url("https://images.wallpaperscraft.ru/image/single/galaktika_kosmos_krasnyj_128770_1920x1080.jpg");
 }
+.bg_main_img{
+    margin-top: 10%;
+    margin-left:5%;
+}
