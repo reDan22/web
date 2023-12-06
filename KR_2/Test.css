@@ -1,3 +1,30 @@
 .navigation_pages--active{
     font-style: italic;
 }
+.navbar{
+    height: 75px;
+}
+.page_navigation{
+    background-color: #B3DCFD;
+    font-style: italic;
+    font-size: 20px;
+    color: #000000;
+}
+.text{
+    font-style: italic;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.text_link{
+    list-style: none;
+}
+body{
+    background-image: url('https://kartinki.pics/uploads/posts/2021-07/1626946467_10-kartinkin-com-p-fon-odnotonnii-tekstura-krasivo-10.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.img_about_us{
+    text-align: center;
+    list-style-type:none;
+}
