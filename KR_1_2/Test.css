@@ -1,0 +1,49 @@
+.navigation_pages--active{
+    font-style: italic;
+}
+.navbar{
+    height: 75px;
+}
+.page_navigation{
+    background-color: #B3DCFD;
+    font-style: italic;
+    font-size: 20px;
+    color: #000000;
+}
+.text{
+    font-style: italic;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.text_link{
+    list-style: none;
+}
+body{
+    background-image: url('https://kartinki.pics/uploads/posts/2021-07/1626946467_10-kartinkin-com-p-fon-odnotonnii-tekstura-krasivo-10.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.img_about_us{
+    text-align: center;
+    list-style-type:none;
+}
+.card-body{
+    background-image: url("https://images.wallpaperscraft.ru/image/single/galaktika_kosmos_krasnyj_128770_1920x1080.jpg");
+}
+.bg_main_img{
+    margin-top: 10%;
+    margin-left:5%;
+}
+.form_design{
+    text-align: left; margin-left: 20px;
+}
+.nav_color{
+    color:#FF0000;
+}
+.main_body{
+    background-image: url("Images/bg_main.jpg");
+}
+.table_lol{
+    background-image: url("https://i.pinimg.com/736x/7c/25/10/7c2510796feb4bf787104114a411693f.jpg");
+}

@@ -1,0 +1,92 @@
+[
+    {
+      "id": "1",
+      "title": " Ноутбук GIGABYTE G5 MF",
+      "vendor_code": "111",
+      "description": "IPS, Intel Core i5-12500H, ядра: 4 + 8 х 2.5 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 4050 для ноутбуков 6 ГБ",
+      "price": 79999,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/320/250/8d470e1817e27b035c0593f35c56b34c/fec706b31d02095ec0be9520385b7e9c336b6e42398b8731685a3dfa2c1b4b07.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Ноутбук MSI Katana B12VFK-463XRU",
+      "vendor_code": "222",
+      "description": "IPS, Intel Core i5-12450H, ядра: 4 + 4 х 2 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 4060 для ноутбуков 8 ГБ",
+      "price": 89999,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/200/200/f2d5492a6cb4b1568b669e7171f90dd7/d58cb1e1bfd148a9744b25176f3959f2405f7d8a7dcfb6cf17774f818df24161.jpg.webp"
+    },
+    {
+      "id": "3",
+      "title": "Ноутбук ARDOR GAMING NEO G15",
+      "vendor_code": "333",
+      "description": "IPS, Intel Core i5-12500H, ядра: 4 + 8 х 2.5 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 3050 для ноутбуков 4 ГБ",
+      "price": 72299,
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/6873f2df617076e3c6b69f3470de3ea2/4cfbdb831f0d6e33d70b3c25030e25f2a9d4f5c37fc604934af627ea04dbfbca.jpg.webp"
+    },
+    {
+      "id": "4",
+      "title": "Ноутбук MSI Stealth 17 Studio",
+      "vendor_code": "444e",
+      "description": "IPS, Intel Core i9-13900H, ядра: 6 + 8 х 2.6 ГГц, RAM 32 ГБ, SSD 1000 ГБ, GeForce RTX 4080 для ноутбуков 12 ГБ",
+      "price": 289999,
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/7182217e1a757681f407acf17488b651/a501233c6c1e91cd80a64d4301685286272ec04a50a9888ee7a94c22e20fa9d2.jpg.webp"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Ноутбук ASUS ROG Flow X16",
+      "vendor_code": "4445e",
+      "description": "Intel Core i9-13900H, ядра: 6 + 8 х 2.6 ГГц, RAM 32 ГБ, SSD 1000 ГБ, GeForce RTX 4070 для ноутбуков 8 ГБ",
+      "price": 301299,
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/200/200/accda88f29536b2d6d7435d0f4d5770a/e71134cf52759caf85a6fcdce88a4bf56b10a979f07ce6a68f3b3a05944c30fc.jpg.webp"
+    },
+    {
+      "id": "6",
+      "title": "Ноутбук ASUS ROG Strix G15",
+      "vendor_code": "4446e",
+      "description": "IPS, AMD Ryzen 7 4800H, ядра: 8 х 2.9 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 3050 Ti для ноутбуков 4 ГБ,",
+      "price": 89999,
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/320/250/97fb0057f62f1b45352c458bfe5d846c/74f73968461c5f6852b4ba74dc3c5d8634f5f9c0ff3303d1b26eda062f57b487.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Machenike T58",
+      "vendor_code": "4447e",
+      "description": "IPS, Intel Core i5-11260H, ядра: 6 х 2.6 ГГц, RAM 8 ГБ, SSD 256 ГБ, GeForce GTX 1650 4 ГБ",
+      "price": 65499,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/320/250/b10e6772fb912e6e8099433a1e5e9886/18d8aec04249b2fd4272ea7af14200d6a8a990fd95c887b9501e9adad949ae44.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Ноутбук Maibenben X639",
+      "vendor_code": "4448e",
+      "description": "IPS, Intel Core i9-13900H, ядра: 6 + 8 х 2.6 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 4080 для ноутбуков 12 ГБ",
+      "price": 229999,
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/320/250/0818757d3d93a1323c1f23ccec530053/9101c362eb15b9d31caf3044021b4aead11c603951f7a08fff5d88b670c4e362.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Ноутбук MSI GE77 HX Raider",
+      "vendor_code": "444e",
+      "description": "IPS, Intel Core i9-12900HX, ядра: 8 + 8 х 2.3 ГГц, RAM 32 ГБ, SSD 2000 ГБ, GeForce RTX 3080 Ti для ноутбуков 16 ГБ",
+      "price": 113999,
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/320/250/2d8b6af3b394ac6f47411ffe97e47748/111c0693eeecf994e0eb621215713395878df13858ff63ba62e79fc952249eae.jpg"
+    }
+    ,
+    {
+      "id": "10",
+      "title": "Ноутбук ASUS Vivobook 16X",
+      "vendor_code": "44410e",
+      "description": "IPS, Intel Core i5-13500H, ядра: 4 + 8 х 2.6 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 3050 для ноутбуков 4 ГБ",
+      "price": 104999,
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/320/250/73eed1a574ab6ce3cbf17a32cf4bb00e/fcba73d73e7bab03709584249ba58e772b2918088ce9e597d34bdcb0bd820826.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Ноутбук ASUS VivoBook Pro 15",
+      "vendor_code": "44411e",
+      "description": "OLED, Intel Core i5-13500H, ядра: 4 + 8 х 2.6 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 3050 для ноутбуков 6 ГБ",
+      "price": 120000,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/320/250/6cbe82ead8f2e452dee9eca420fe0c8f/5d34a4913dfa2110cfe0061ae6a361543bb40accbd2ab84b07b48544aefa3876.jpg "
+    }
+  ]
